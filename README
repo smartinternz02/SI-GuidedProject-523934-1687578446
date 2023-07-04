@@ -1,0 +1,16 @@
+Food Ordering System - Delivero
+How to Run this Project?
+
+Follow the steps below to run the project successfully:
+
+    Start by running the backend. Execute the MadProjectApplication.java file located in the Back-End Folder.
+    Next, run the frontend. Execute the home.html file located in the Front-End Folder.
+
+Note: If you intend to run the project on your platform with the backend, ensure that you include your MySQL database address in the application.properties file of the Back-End Folder.
+
+Please make sure to have the necessary dependencies and configurations set up in your pom.xml and application.properties in your Back-End Folder before running the project.
+
+
+Whole Project Drive Link: https://drive.google.com/drive/folders/1KJR_fkwQbzEzeO3qPrLYIqnQ41zuGbgg
+
+Demo Link: https://drive.google.com/file/d/1JQBZk9f359_ojayeKSqF7ad6SNTNzpr5/view
